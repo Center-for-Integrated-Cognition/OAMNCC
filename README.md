@@ -1,0 +1,1 @@
+The sailor overboard scenario is meant to be run as a jupyter notebook. The piracy interdiction scenarios are just run as python scripts. Parameters can be adjusted to simulate different ship properties, but those committed are those used in the paper.
