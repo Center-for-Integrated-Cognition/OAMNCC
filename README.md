@@ -8,7 +8,7 @@ The paper introduces describe Online, Aligned Mitigation of Novel Constraint Con
 
 There are two primary scenarios (with variations as described in the paper):
 
-# The sailor overboard scenario is meant to be run as a jupyter notebook. 
-# The piracy interdiction scenarios are just run as python scripts. 
+1. The sailor overboard scenario is meant to be run as a jupyter notebook.
+2. The piracy interdiction scenarios are just run as python scripts. 
 
-For both scenarios, parameters can be adjusted to simulate various ship and scenarios properties, but the values in the code here (i.e., the ones committed in the respository) are the ones used in the final paper.
+- For both scenarios, parameters can be adjusted to simulate various ship and scenarios properties, but the values in the code here (i.e., the ones committed in the respository) are the ones used in the final paper.
